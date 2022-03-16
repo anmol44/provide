@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIPractice.iml" filepath="$PROJECT_DIR$/APIPractice.iml" />
+      <module fileurl="file://D:/Automate/Provide_Automation_Project/provide/BaswareAutomation.iml" filepath="D:/Automate/Provide_Automation_Project/provide/BaswareAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaPractice/JavaPractice.iml" filepath="$PROJECT_DIR$/../JavaPractice/JavaPractice.iml" />
+    </modules>
+  </component>
+</project>
